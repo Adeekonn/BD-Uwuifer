@@ -1,7 +1,7 @@
 # uwuifier Bettr Discord Plugin
 
 ## Description
-The uwuifier Discord bot plugin is a fun addition to your Discord server. It adds a slash command that allows users to uwuify the text they send. Uwuify your messages and spread the uwu love!
+The uwuifier Discord plugin is a fun addition to your Discord App. It adds a slash command that allows users to uwuify the text they send. Uwuify your messages and spread the uwu love!
 
 ## Installation
 To use this plugin, you need to have BetterDiscord installed. Follow these steps to install the uwuifier plugin:
